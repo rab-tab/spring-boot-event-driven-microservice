@@ -1,4 +1,4 @@
-package com.microservices.twitter.to.kafka.service.runner.impl;
+package com.microservices.runner.impl;
 
 import twitter4j.Status;
 import twitter4j.TwitterException;

@@ -11,5 +11,17 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>kafka-admin</artifactId>
+    <dependencies>
+        <dependency>
+            <groupId>org.springframework.kafka</groupId>
+            <artifactId>spring-kafka</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.event.driven.microservices</groupId>
+            <artifactId>app-config-data</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
+
 
 </project>

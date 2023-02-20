@@ -1,7 +1,8 @@
 package com.microservices.twitter.to.kafka.service.listener;
 
 
-import com.microservices.twitter.to.kafka.service.config.TwitterToKafkaServiceConfigData;
+;
+import com.microservices.TwitterToKafkaServiceConfigData;
 import com.microservices.twitter.to.kafka.service.runner.impl.StreamRunner;
 import jakarta.annotation.PreDestroy;
 import org.slf4j.Logger;
